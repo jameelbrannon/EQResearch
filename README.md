@@ -1,2 +1,2 @@
 equity research.
-companiescan be identified by their ticker symbol.
+companies can be identified by their ticker symbol.
